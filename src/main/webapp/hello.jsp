@@ -9,5 +9,6 @@
 <body>
 	hello github!
 	hi, my name is fjswhd
+	wow it is merged well
 </body>
 </html>
